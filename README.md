@@ -1,9 +1,10 @@
 # OSC99_JAN28
 A oscillator based generate visual synthesizer with UI written in Processing
-...............................................................................................................
+<br/>
+................................................................................................................................
+<br/>
 It is over the top messy right now. My next step is to clean it up. I didnt plan on spending so much time on it when I started.
 I have never made anything near this big. 
-...............................................................................................................
 
 It uses sin wave values stored in an array to fill in the pixels accordingly. 
 
@@ -25,7 +26,9 @@ It seems to work but I'm waiting until things like variable names and the overal
 
 The "Symmetry" and "Push/Pull" toggles only affect OSC1 and their logic is flipped from what it should be. For them (right = off) and (left == on).
 
-...............................................................................................................
+<br/>
+................................................................................................................................
+<br/>
 
 I was inspired to make this by Andrei Jay's WAAVES and Joel Kivelä's Cathodemer. 
 
