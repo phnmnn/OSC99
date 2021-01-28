@@ -14,7 +14,8 @@ Try out the 'Randomize' parameter in the "Main" menu.
 Because of how I used blending modes sometimes depending on the settings you choose the text and UI both go black.
 It is still functional when this happens. Im working on fixing it. 
 
-The "output" folder is where your exported frames will be saved. 
+There should be a folder called "output" within the "Visual_Synth_Jan_28_Github" folder that you download. But idk how to get it to be on here.
+This folder is where your exported frames will be saved. 
 Save frames by clicking the button in the top right corner.
 
 Several of the paremeters are labled "empty" and just for temporary placement.
