@@ -6,6 +6,14 @@ An oscillator based generate visual synthesizer with UI written in Processing
 It is over the top messy right now. My next step is to clean it up. I didnt plan on spending so much time on it when I started.
 I have never made anything near this big. 
 
+In order to run it you have to download and install Processing and the ControlP5 library within it.
+Processing is free and open source and can be downloaded here:
+https://processing.org/
+Once Processing is open install P5 by clicking on "Tools" and then "Add Tool."
+Then click on "Libraries" and then search for "ControlP5."
+<br/>
+................................................................................................................................
+<br/>
 It uses sin wave values stored in an array to fill in the pixels accordingly. 
 
 Naivagate the 3 menus by using the slider in the top left corner.
