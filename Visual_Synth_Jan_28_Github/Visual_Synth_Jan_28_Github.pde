@@ -121,6 +121,8 @@ float noiseInput = 0;
 
 
 void setup() {
+
+  frameRate(24);
   
   size(1114, 816);
   
