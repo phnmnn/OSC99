@@ -1,4 +1,4 @@
-# OSC99_JAN28
+# OSC99
 An oscillator based generate visual synthesizer with UI written in Processing
 <br/>
 ................................................................................................................................
