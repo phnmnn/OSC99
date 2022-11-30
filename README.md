@@ -22,18 +22,14 @@ Try out the 'Randomize' parameter in the "Main" menu.
 Because of how I used blending modes sometimes depending on the settings you choose the text and UI both go black.
 It is still functional when this happens. Im working on fixing it. 
 
-There should be a folder called "output" within the folder that you download, but idk how to get it to be on here.
-This folder is where your exported frames will be saved. If you dont have one it should create it for you. 
+There should be a folder called "output" within the project folder that you download, but idk how to get a blank folder on here.
+This folder is where your exported/rendered frames will be saved. If you dont want to create it yourself it should create it for you once you actually render. 
 Save frames by clicking the button in the top right corner.
 
-Several of the paremeters are labled "empty" and just for temporary placement.
+Several of the paremeters are labled "empty" and just for temporary placement. 
 
-The "Patch" txt file is just there to eventually be a place to store the data for presets. 
-The "Save Patch" button works right now but it only store 3 parameters and you cannot "Load Patch" them. 
-Any of the code for this part is heavily borrowed from somewhere I cant remember at the moment. 
-It seems to work but I'm waiting until things like variable names and the overall structure are more settled. 
+The newer version allows you to save and load presets. In the "Main" menu you can click "Save Patch" and all the values for each parameter will be stored in a human readable json file. Click "Load Patch" and select a json file to load it in. I have included several preset files in the newer version. 
 
-The "Symmetry" and "Push/Pull" toggles only affect OSC1 and their logic is flipped from what it should be. For them (right = off) and (left == on).
 
 <br/>
 ................................................................................................................................
