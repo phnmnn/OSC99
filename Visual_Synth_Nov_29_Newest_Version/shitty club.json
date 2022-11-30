@@ -1,0 +1,262 @@
+{"states": [
+  {
+    "parameter": "Theta",
+    "id": 0,
+    "cur_value": "16.175646"
+  },
+  {
+    "parameter": "Amplitude",
+    "id": 1,
+    "cur_value": "185.0"
+  },
+  {
+    "parameter": "AmpAndrei",
+    "id": 2,
+    "cur_value": "0.5106724"
+  },
+  {
+    "parameter": "Period",
+    "id": 3,
+    "cur_value": "63.570324"
+  },
+  {
+    "parameter": "Osc 1 Speed",
+    "id": 4,
+    "cur_value": "0.21283764"
+  },
+  {
+    "parameter": "Filler Lines",
+    "id": 5,
+    "cur_value": "3"
+  },
+  {
+    "parameter": "Mod Amt",
+    "id": 6,
+    "cur_value": "8.963736"
+  },
+  {
+    "parameter": "Mod Direction",
+    "id": 7,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Line Amount",
+    "id": 8,
+    "cur_value": "0"
+  },
+  {
+    "parameter": "Wave Hue",
+    "id": 9,
+    "cur_value": "22"
+  },
+  {
+    "parameter": "New Hue",
+    "id": 10,
+    "cur_value": "45.178394"
+  },
+  {
+    "parameter": "Background Hue",
+    "id": 11,
+    "cur_value": "198"
+  },
+  {
+    "parameter": "Hue Change",
+    "id": 12,
+    "cur_value": "5.7945986"
+  },
+  {
+    "parameter": "Wave Hue LFO",
+    "id": 13,
+    "cur_value": "19.484835"
+  },
+  {
+    "parameter": "Direction",
+    "id": 14,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "Background Value",
+    "id": 15,
+    "cur_value": "79"
+  },
+  {
+    "parameter": "LFO Speed",
+    "id": 16,
+    "cur_value": "5.7945986"
+  },
+  {
+    "parameter": "Sine",
+    "id": 17,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "SquareWidth",
+    "id": 18,
+    "cur_value": "465"
+  },
+  {
+    "parameter": "Blend Type",
+    "id": 19,
+    "cur_value": "8"
+  },
+  {
+    "parameter": "Type",
+    "id": 20,
+    "cur_value": "1"
+  },
+  {
+    "parameter": "OSC 2 Toggle",
+    "id": 21,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Controls",
+    "id": 22,
+    "cur_value": "3"
+  },
+  {
+    "parameter": "Osc 1 Toggle",
+    "id": 23,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "Band Spacing",
+    "id": 24,
+    "cur_value": "599"
+  },
+  {
+    "parameter": "Osc Direction",
+    "id": 25,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Dialation Scalar",
+    "id": 26,
+    "cur_value": "16.0"
+  },
+  {
+    "parameter": "Frequency Modulation",
+    "id": 27,
+    "cur_value": "1.0"
+  },
+  {
+    "parameter": "Push/Pull",
+    "id": 28,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Symmetry",
+    "id": 29,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Mystery Modulation",
+    "id": 30,
+    "cur_value": "16.0"
+  },
+  {
+    "parameter": "Theta 2",
+    "id": 31,
+    "cur_value": "0.0"
+  },
+  {
+    "parameter": "Amplitude 2",
+    "id": 32,
+    "cur_value": "161.40744"
+  },
+  {
+    "parameter": "Period 2",
+    "id": 33,
+    "cur_value": "228.50049"
+  },
+  {
+    "parameter": "Osc 2 Speed",
+    "id": 34,
+    "cur_value": "-0.3867836"
+  },
+  {
+    "parameter": "Filler Lines 2",
+    "id": 35,
+    "cur_value": "13"
+  },
+  {
+    "parameter": "Mod Amount 2",
+    "id": 36,
+    "cur_value": "0.1"
+  },
+  {
+    "parameter": "Mod Direction 2",
+    "id": 37,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Line Amount 2",
+    "id": 38,
+    "cur_value": "0"
+  },
+  {
+    "parameter": "Wave Hue 2",
+    "id": 39,
+    "cur_value": "147"
+  },
+  {
+    "parameter": "New Hue 2",
+    "id": 40,
+    "cur_value": "128.77911"
+  },
+  {
+    "parameter": "Background Hue 2",
+    "id": 41,
+    "cur_value": "0"
+  },
+  {
+    "parameter": "Hue Change",
+    "id": 42,
+    "cur_value": "9.110441"
+  },
+  {
+    "parameter": "Wave Hue LFO 2",
+    "id": 43,
+    "cur_value": "0.0"
+  },
+  {
+    "parameter": "Direction 2",
+    "id": 44,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Background Value 2",
+    "id": 45,
+    "cur_value": "255"
+  },
+  {
+    "parameter": "LFO Speed 2",
+    "id": 46,
+    "cur_value": "9.110441"
+  },
+  {
+    "parameter": "Sine 2",
+    "id": 47,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "Square Width 2",
+    "id": 48,
+    "cur_value": "273"
+  },
+  {
+    "parameter": "OSC 2 Opacity",
+    "id": 49,
+    "cur_value": "136"
+  },
+  {
+    "parameter": "Band Spacing 2",
+    "id": 50,
+    "cur_value": "479"
+  },
+  {
+    "parameter": "OSC 2 Direction",
+    "id": 51,
+    "cur_value": "false"
+  }
+]}
