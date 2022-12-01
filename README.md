@@ -1,5 +1,5 @@
 # OSC99
-An oscillator based generate visual synthesizer with UI written in Processing
+An oscillator based generated visual synthesizer with UI written in Processing
 <br/>
 ................................................................................................................................
 <br/>
