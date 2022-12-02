@@ -1,8 +1,6 @@
 # OSC99
 An oscillator based generated visual synthesizer with UI written in Processing
-<br/>
-................................................................................................................................
-<br/>
+<hr>
 It is over the top messy right now. My next step is to clean it up. I didnt plan on spending so much time on it when I started.
 I have never made anything near this big. 
 
@@ -12,7 +10,7 @@ https://processing.org/
 Once Processing is open install P5 by clicking on "Tools" and then "Add Tool."
 Then click on "Libraries" and then search for "ControlP5."
 <br/>
-................................................................................................................................
+<hr>
 <br/>
 It uses sin wave values stored in an array to fill in the pixels accordingly. 
 
@@ -29,11 +27,17 @@ Save frames by clicking the button in the top right corner.
 Several of the paremeters are labled "empty" and just for temporary placement. 
 
 The newer version allows you to save and load presets. In the "Main" menu you can click "Save Patch" and all the values for each parameter will be stored in a human readable json file. Click "Load Patch" and select a json file to load it in. I have included several preset files in the newer version. 
-
-
 <br/>
-................................................................................................................................
+<hr>
+<ul>Hotkeys: </ul>
+	<li>R - render/stop render</li>
+	<li>1 - osc1 menu</li>
+	<li>2 - osc2 menu</li>
+	<li>3 - main menu</li>
+
+<hr>
 <br/>
+
 
 I was inspired to make this by Andrei Jay's WAAVES and Joel Kivelä's Cathodemer. 
 
