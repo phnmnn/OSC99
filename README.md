@@ -1,6 +1,11 @@
 # OSC99
 An oscillator based generative visual synthesizer with UI written in Processing
 <hr>
+
+![osc1](https://user-images.githubusercontent.com/32662359/208203458-a127ff38-2c64-4f7c-98b6-3da79e943073.png)
+<hr>
+
+
 I didnt plan on spending so much time on this when I started and I have never made anything near this big so any advice is appreciated.
 
 In order to run it you have to download and install Processing and the ControlP5 library within it. I have not tried it on Processing 4 yet.
@@ -47,3 +52,19 @@ WAAVES:
 https://github.com/ex-zee-ex/WAAAVES
 
 CATHODEMER is on Steam
+
+
+<hr>
+
+![osc99_default](https://user-images.githubusercontent.com/32662359/208203596-cae7057b-8972-4e68-abf7-69f63c9d1f58.png)
+
+![oscMain](https://user-images.githubusercontent.com/32662359/208203935-28dc0849-3abf-4ed7-b158-3c0d237f985b.png)
+
+![osc99_red](https://user-images.githubusercontent.com/32662359/208203946-40fc876e-8b8e-4b48-9159-87564af9b96d.png)
+
+
+
+
+
+
+
