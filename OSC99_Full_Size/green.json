@@ -1,0 +1,217 @@
+{"states": [
+  {
+    "parameter": "osc1Sleep",
+    "id": 0,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "oscDir",
+    "id": 1,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "osc1_opacity",
+    "id": 2,
+    "cur_value": "255"
+  },
+  {
+    "parameter": "amplitude",
+    "id": 3,
+    "cur_value": "0.36885786"
+  },
+  {
+    "parameter": "period",
+    "id": 4,
+    "cur_value": "775.8269"
+  },
+  {
+    "parameter": "osc_speed",
+    "id": 5,
+    "cur_value": "0.6963248"
+  },
+  {
+    "parameter": "xspacing",
+    "id": 6,
+    "cur_value": "8"
+  },
+  {
+    "parameter": "filler_lines",
+    "id": 7,
+    "cur_value": "10"
+  },
+  {
+    "parameter": "band_spacing",
+    "id": 8,
+    "cur_value": "826"
+  },
+  {
+    "parameter": "modulo_amt",
+    "id": 9,
+    "cur_value": "0.1"
+  },
+  {
+    "parameter": "wave_hue",
+    "id": 10,
+    "cur_value": "52"
+  },
+  {
+    "parameter": "hueLFOSleep",
+    "id": 11,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "lfo_amt",
+    "id": 12,
+    "cur_value": "0.0"
+  },
+  {
+    "parameter": "lfo_speed",
+    "id": 13,
+    "cur_value": "0.81424856"
+  },
+  {
+    "parameter": "sine",
+    "id": 14,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "squareWidth",
+    "id": 15,
+    "cur_value": "432"
+  },
+  {
+    "parameter": "dialationScalar",
+    "id": 16,
+    "cur_value": "6.0"
+  },
+  {
+    "parameter": "freqMod",
+    "id": 17,
+    "cur_value": "1.0"
+  },
+  {
+    "parameter": "mysteryModulation",
+    "id": 18,
+    "cur_value": "220.63104"
+  },
+  {
+    "parameter": "pushPull",
+    "id": 19,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "symmetry",
+    "id": 20,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "osc2Sleep",
+    "id": 21,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "oscDir2",
+    "id": 22,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "osc2_opacity",
+    "id": 23,
+    "cur_value": "69"
+  },
+  {
+    "parameter": "amplitude2",
+    "id": 24,
+    "cur_value": "475.77542"
+  },
+  {
+    "parameter": "period2",
+    "id": 25,
+    "cur_value": "375.43085"
+  },
+  {
+    "parameter": "osc_speed2",
+    "id": 26,
+    "cur_value": "0.101555675"
+  },
+  {
+    "parameter": "xspacing2",
+    "id": 27,
+    "cur_value": "8"
+  },
+  {
+    "parameter": "filler_lines2",
+    "id": 28,
+    "cur_value": "6"
+  },
+  {
+    "parameter": "band_spacing2",
+    "id": 29,
+    "cur_value": "836"
+  },
+  {
+    "parameter": "modulo_amt2",
+    "id": 30,
+    "cur_value": "0.1"
+  },
+  {
+    "parameter": "wave_hue2",
+    "id": 31,
+    "cur_value": "20"
+  },
+  {
+    "parameter": "hueLFOSleep2",
+    "id": 32,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "lfo_amt2",
+    "id": 33,
+    "cur_value": "0.0"
+  },
+  {
+    "parameter": "lfo_speed2",
+    "id": 34,
+    "cur_value": "9.919108"
+  },
+  {
+    "parameter": "sine2",
+    "id": 35,
+    "cur_value": "true"
+  },
+  {
+    "parameter": "squareWidth2",
+    "id": 36,
+    "cur_value": "332"
+  },
+  {
+    "parameter": "blendType",
+    "id": 37,
+    "cur_value": "8"
+  },
+  {
+    "parameter": "type",
+    "id": 38,
+    "cur_value": "0"
+  },
+  {
+    "parameter": "invertFilter",
+    "id": 39,
+    "cur_value": "false"
+  },
+  {
+    "parameter": "bgr_hue",
+    "id": 40,
+    "cur_value": "44"
+  },
+  {
+    "parameter": "bgr_sat",
+    "id": 41,
+    "cur_value": "255"
+  },
+  {
+    "parameter": "bgr_val",
+    "id": 42,
+    "cur_value": "36"
+  }
+]}
