@@ -1,21 +1,22 @@
 # OSC99
-An oscillator based generated visual synthesizer with UI written in Processing
+An oscillator based generative visual synthesizer with UI written in Processing
 <hr>
 I didnt plan on spending so much time on this when I started and I have never made anything near this big so any advice is appreciated.
 
 In order to run it you have to download and install Processing and the ControlP5 library within it. I have not tried it on Processing 4 yet.
 Processing is free and open source and can be downloaded here:
 https://processing.org/
-Once Processing is open install P5 by clicking on "Tools" and then "Add Tool."
+Once Processing is open install ControlP5 by clicking on "Tools" and then "Add Tool."
 Then click on "Libraries" and then search for "ControlP5."
-Finally just double click on of the processing files in the sketch folder and click the play button. 
+Finally just double click on any of the processing files in the sketch folder and then click the play button. 
 Once the sketch is running, click and drag the sliders to start changing the output. 
 <br/>
 <hr>
 <br/>
 Essentially it uses sine wave values stored in an array to fill in pixels accordingly. 
 
-Naivagate the 3 menus by using the slider in the top left corner.
+Naivagate the 3 menus by using the slider in the top left corner. The 3 menus are "OSC1", "OSC2", and "Main".
+
 Try out the 'Randomize' button in the "Main" menu. Sometimes the screen will seem blank but just randomize again.
 
 There should be a folder called "output" within the project folder (Processing Sketch) that you download, but idk how to get a blank folder on here.
